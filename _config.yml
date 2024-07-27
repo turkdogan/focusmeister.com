@@ -144,3 +144,6 @@ collections:
 
 # Markdown rendering
 markdown: kramdown
+
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
